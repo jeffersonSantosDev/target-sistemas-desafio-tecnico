@@ -1,0 +1,14 @@
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\bin\Debug\net7.0\TargetSistemas.exe
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\bin\Debug\net7.0\TargetSistemas.deps.json
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\bin\Debug\net7.0\TargetSistemas.runtimeconfig.json
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\bin\Debug\net7.0\TargetSistemas.dll
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\bin\Debug\net7.0\TargetSistemas.pdb
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.dll
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\refint\TargetSistemas.dll
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.pdb
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\x048303\Documents\jefferson\TargetSistemas-desafios\TargetSistemas\TargetSistemas\obj\Debug\net7.0\ref\TargetSistemas.dll
